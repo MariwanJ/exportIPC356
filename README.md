@@ -1,2 +1,8 @@
 # exportIPC356
-Kicad Plugin to export netlist as IPC356
+Kicad Plugin to export netlist as IPC-D-356A
+
+Download the zip or clone the project and put it under the plugins folder for KICAD. 
+For kicad 7.xx  and windows 10:
+usernamexxxxx\Documents\KiCad\7.0\3rdparty\plugins\
+
+Don't know where to put for other OS please help in updating this readme so it will be obvious for other users.

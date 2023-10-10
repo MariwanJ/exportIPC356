@@ -4,7 +4,8 @@ KiCAD Plugin to export netlist as IPC-D-356A
 Download the zip or clone the project and put it under the plugins folder for KICAD. 
 
 Documentations says that you can find the path by :
-It is opened through    :  Tools → External plugins → Open Plugin Directory
+
+  Tools → External plugins → Open Plugin Directory
   in the pcb editor.
 
 
